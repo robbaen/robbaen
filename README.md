@@ -1,15 +1,3 @@
-<style>
-
-body {
-  text-align: center;
-}
-
-img {
-  border-radius: 10%;
-}
-
-</style>
-
 <a href="https://komarev.com/ghpvc/?username=robbaen">
   <img align="right" src="https://komarev.com/ghpvc/?username=robbaen&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
