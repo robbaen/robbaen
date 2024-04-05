@@ -58,48 +58,6 @@
   </tr>
 </table>
 
-## Education
-
-<table>
-  <tr>
-    <th><div>
-        <img src="" alt="" width="100"/>
-      </div></th>
-    <th>School</th>
-    <th>Degree</th>
-    <th>Graduated</th>
-  </tr>
-  <tr >
-  <td>
-      <div align="center">
-        <img src="https://i.ibb.co/WgZYr6d/Clean-Shot-2024-02-26-at-19-31-29.png" class="rounded-lg" alt="" width="100"/>
-      </div>
-    </td>
-    <td class="align-middle"><a href="https://www.fitjar.vgs.no/">Fitjar VGS</a></td>
-    <td class="align-middle">College Admissions Certification</td>
-    <td class="align-middle">2014</td>
-  </tr>
-  <tr>
-  <td>
-      <div align="center">
-        <img src="https://i.ibb.co/WgZYr6d/Clean-Shot-2024-02-26-at-19-31-29.png" class="rounded-lg" alt="" width="100"/>
-      </div>
-    </td>
-    <td class="align-middle"><a href="https://www.stord.vgs.no/">Stord VGS</a></td>
-    <td class="align-middle">ICT Service Operations</td>
-    <td class="align-middle">2013</td>
-  </tr>
-  <tr>
-  <td>
-      <div align="center">
-        <img src="https://i.ibb.co/WgZYr6d/Clean-Shot-2024-02-26-at-19-31-29.png" class="rounded-lg" alt="" width="100"/>
-      </div>
-    </td>
-    <td class="align-middle"><a href="https://www.stord.vgs.no/">Stord VGS</a></td>
-    <td class="align-middle">Electrician</td>
-    <td class="align-middle">2012</td>
-  </tr>
-</table>
 
 ## Certifications
 
@@ -111,6 +69,24 @@
     <th>Year</th>
   </tr>
   <tr >
+  <td>
+      <div align="center">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" class="rounded-lg" alt="" width="100"/>
+      </div>
+    </td>
+    <td class="align-middle"><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/">AZ-700 Azure Network Engineer Associate</a></td>
+    <td class="align-middle">Microsoft</td>
+    <td class="align-middle">2024</td>
+  </tr>
+  <td>
+      <div align="center">
+        <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" class="rounded-lg" alt="" width="100"/>
+      </div>
+    </td>
+    <td class="align-middle"><a href="https://www.credly.com/badges/0fe3f9aa-05df-4da4-8ddb-859d0d5d0d49">HashiCorp: Terraform Associate (003)</a></td>
+    <td class="align-middle">HashiCorp</td>
+    <td class="align-middle">2024</td>
+  </tr>
   <td>
       <div align="center">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" class="rounded-lg" alt="" width="100"/>

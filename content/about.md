@@ -12,7 +12,7 @@ With a diverse background encompassing Tech Lead and various Consultant roles, I
 
 Having successfully delivered comprehensive solutions for clients across multiple industries, I am skilled in understanding unique business requirements and translating them into secure and optimized cloud environments. My continuous drive for learning and staying up-to-date with the latest cloud technologies allows me to design cutting-edge solutions tailored to meet specific client needs.
 
-# What I have worked with
+<!-- # What I have worked with
 
 <div class="flex flex-col justify-center items-center md:flex-row gap-4">
   <div class="flex flex-col items-center justify-center text-center w-1/2">
@@ -80,4 +80,4 @@ Having successfully delivered comprehensive solutions for clients across multipl
       </div>
     </div>
   </div>
-</div>
+</div> -->

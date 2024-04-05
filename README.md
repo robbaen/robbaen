@@ -25,12 +25,7 @@
  <a href="https://linkedin.com/in/robertreigstad/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
 <br />
-
-<!-- About  Section -->
 
 <br/>
 <br/>
