@@ -15,7 +15,7 @@
   <tr >
     <td>
       <div align="center">
-        <img src="https://asset.brandfetch.io/idezujSnbi/idHlyIqMsW.png" class="rounded-lg" alt="atea" width="100"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyeDBAR-WvgVObrTQKFYMdjkudE7oAygv8A&s" class="rounded-lg" alt="atea" width="100"/>
       </div>
     </td>
     <td class="align-middle"><a href="https://atea.no">Atea</a></td>
