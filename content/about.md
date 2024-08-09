@@ -6,7 +6,7 @@ showAuthor: true
 
 # About me
 
-Hello 👋 I'm Robert Reigstad, an accomplished Senior Cloud Engineer with expertise in both network and security, specializing in designing secure solutions that leverage the cloud, specifically Azure.
+Hello 👋 I'm Robert Reigstad, an accomplished Senior Consultant with expertise in both network and security, specializing in designing secure solutions that leverage the cloud, specifically Azure.
 
 With a diverse background encompassing Tech Lead and various Consultant roles, I possess extensive hands-on experience and a deep understanding of diverse technologies.
 

@@ -13,6 +13,6 @@ logo = "rreigstad-logo.png"
 [author]
 name = "Robert Reigstad"
 image = "1686853760483.jpeg"
-headline = "Senior Cloud Engineer"
-bio = "Senior Cloud Engineer, Network & Security, Tech Enthusiast 🌩️"
+headline = "Senior Consultant"
+bio = "Senior Consultant - Cloud, Network & Security, Tech Enthusiast 🌩️"
 links = [ { github = "https://github.com/robbaen" }, { linkedin = "https://www.linkedin.com/in/robertreigstad/" }, { microsoft = "https://learn.microsoft.com/en-us/users/robertreigstad-2436/" } ]

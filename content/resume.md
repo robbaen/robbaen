@@ -15,12 +15,23 @@
   <tr >
     <td>
       <div align="center">
+        <img src="https://asset.brandfetch.io/idezujSnbi/idHlyIqMsW.png" class="rounded-lg" alt="atea" width="100"/>
+      </div>
+    </td>
+    <td class="align-middle"><a href="https://atea.no">Atea</a></td>
+    <td class="align-middle">Senior Consultant</td>
+    <td class="align-middle">Aug 2024 - Present</td>
+    <td class="align-middle">Hybrid</td>
+  </tr>
+  <tr >
+    <td>
+      <div align="center">
         <img src="https://asset.brandfetch.io/idezujSnbi/idHlyIqMsW.png" class="rounded-lg" alt="tietoevry" width="100"/>
       </div>
     </td>
     <td class="align-middle"><a href="https://tietoevry.com">Tietoevry</a></td>
     <td class="align-middle">Senior Cloud Engineer</td>
-    <td class="align-middle">Feb 2024 - Present</td>
+    <td class="align-middle">Feb 2024 - Aug 2024</td>
     <td class="align-middle">Remote</td>
   </tr>
   <tr>

@@ -25,7 +25,7 @@ showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "tiedesktopbg.png"
+homepageImage = "nrr-bg.jpg"
 
 [article]
 showDate = false
