@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Cloud / DevOps Engineer from <b>Norway</b> 」
+    「 I am a Senior Cloud Engineer from <b>Norway</b> 」
     <br>
     <br>
   </samp>
